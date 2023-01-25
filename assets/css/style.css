@@ -1,0 +1,46 @@
+body {
+    background-image: url('/assets/imgs/ml.jpg');
+    background-size: 100%;
+}
+
+#background {
+    width: 100%;
+}
+
+.card {
+    opacity: 0.9;
+    color: gray;
+    width: 60%;
+}
+
+#plant {
+    opacity: 0.9;
+    color: gray;
+    width: 60%;
+}
+
+form {
+    background-color: white;
+    margin: 12%;
+    opacity: 0.9;
+    color: gray;
+    width: 60%;
+}
+
+legend {
+    color: black;
+    font-size: 21pt;
+    text-align:center;
+    margin-bottom: 1%;
+}
+
+.form-control {
+    margin-top: 2%;
+    font-size: 16pt;
+}
+
+footer {
+    text-align:center;
+    font-size: 16pt;
+    color: black;
+}

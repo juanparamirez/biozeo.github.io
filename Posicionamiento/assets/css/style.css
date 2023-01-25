@@ -1,0 +1,109 @@
+* {
+    margin: 0%;
+}
+
+header {
+    background-color: black;
+}
+header h1 {
+    color: white;
+    font-family: "Raleway";
+    font-size: 50px;
+    text-align: center;
+    margin:0%;
+}
+
+img {
+    width: 100%;
+}
+
+#description {
+    background-color: black;
+}
+
+#text {
+    margin-left: 12%;
+}
+
+#description {
+    padding-top: 83.46px;
+    padding-bottom: 121.98px;
+}
+
+#description div {
+    display: inline-block;
+}
+
+#description #text, .icon {
+    color: white;
+    font-family: "Raleway";
+    width: 36%;
+    font-size: 22px;
+}
+
+#description #image1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#caracteristicas {
+    background-color:#1E1A13;
+    opacity: .98;
+    height: 763px;
+}
+
+main h2 {
+    color: white;
+    font-family: "Raleway";
+    font-size: 50px;
+    text-align: center;
+    margin:0%;
+    padding-top: 160.44px;
+}
+
+.icon, .photo {
+    width: 15%;
+    text-align: center;
+    padding-top: 153.48px;
+    display: inline-block;
+    font-family: "Raleway";
+}
+
+.icon p{
+    font-size: 130%;
+}
+
+#eye, #IguanaMar {
+    padding-left: 343.32px;
+}
+
+#peace, #brush, #IguanaFace, #IguanaGroup {
+    padding-left: 190px;
+}
+
+#galeria {
+    background-color:black;
+
+}
+
+.photo {
+    padding-top: 10%;
+    padding-bottom: 7%;
+}
+
+#IguanaMar, #IguanaFace, #IguanaGroup {
+    width: 316px;
+    height: 202px;
+}
+
+footer {
+    background-color:#1E1A13;
+    height: 80px;
+    color: white;
+    font-family: "Raleway";
+    text-align: center;
+    padding-top: 3%;
+    font-size: 30px;
+}
